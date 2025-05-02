@@ -1,10 +1,10 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,hsck.com
+DOMAIN-SUFFIX,hsck.cc
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,hsck
+DOMAIN-KEYWORD,hsck cktz
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
