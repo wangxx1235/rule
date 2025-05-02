@@ -4,7 +4,8 @@
 DOMAIN-SUFFIX,hsck.cc
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,hsck cktz
+DOMAIN-KEYWORD,hsck
+DOMAIN-KEYWORD,cktz
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
