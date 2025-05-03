@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net
 DOMAIN-SUFFIX,hub5pnc.sandai.net
 DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-SUFFIX,dexscreener.com
 DOMAIN-KEYWORD,mypikpak
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
