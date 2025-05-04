@@ -6,6 +6,13 @@ DOMAIN-SUFFIX,cktz1.sbs
 # 域名关键字匹配
 DOMAIN-KEYWORD,hsck
 DOMAIN-KEYWORD,tdccp
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -19,13 +26,6 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,dexscreener.com
-DOMAIN-KEYWORD,mypikpak
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
