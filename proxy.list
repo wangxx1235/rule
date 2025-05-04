@@ -6,13 +6,11 @@ DOMAIN-SUFFIX,cktz1.sbs
 # 域名关键字匹配
 DOMAIN-KEYWORD,hsck
 DOMAIN-KEYWORD,tdccp
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
-DOMAIN-KEYWORD,mypikpak
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN,o4504926511693824.ingest.sentry.io
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
